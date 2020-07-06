@@ -20,7 +20,7 @@ Here are some ideas to get you started:
     :wave: Hi! I am an aspiring Software Developer and 
     <br>Currently pursuing my Undergrads at IIIT Gwalior.
     <br>My current interests are doing Projects involving 
-      <br><em> Software Development, Machine Learning, and Scripting</em> 
+      <br><em> Software Development, Web Development, Machine Learning, and Scripting</em> 
     <br>Love Solving Problems through Algorithms :sparkles:<br>
     <br><br>:coffee: Wanna connect? 🤖 @ me on <a href="https://www.linkedin.com/in/saket13/">LinkedIn</a>
   </samp>
