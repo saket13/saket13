@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 Know more about me at [https://saketsaumya.info](https://saketsaumya.info)
 
-- ⌘ Interested in **Software Development, Web Development, Machine Learning**
+- ⌘ Interested in **Competitive Programming, Software Development, Web Development, Machine Learning**
 
 - 📫 Reach me @ **saket.iiit@gmail.com**
 
