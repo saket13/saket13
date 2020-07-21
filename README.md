@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 <h3 align="center">A Pre-Final Year Student at IIIT Gwalior</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saket13" alt="saket13" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://saketsaumya.info](https://saketsaumya.info)
+- 👨‍💻 Know more about me at [https://saketsaumya.info](https://saketsaumya.info)
 
-- 💬 Ask me about **C++, Python, Data Structures, Algorithms**
+- ⌘ Interested in **Software Development, Web Development, Machine Learning**
 
-- 📫 How to reach me **saket.iiit@gmail.com**
+- 📫 Reach me @ **saket.iiit@gmail.com**
 
 - ⚡ Fun fact **Night Owl**
 
