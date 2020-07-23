@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h3 align="center">A Pre-Final Year Student at IIIT Gwalior</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saket13" alt="saket13" /> </p>
 
-- 👨‍💻 Know more about me at [https://saketsaumya.info](https://saketsaumya.info)
+- 👨‍💻 <i>'Daḷhaṃ sikkhatha santiyā'</i> - Resolutely Train Yourself To Attain Peace
 
 - ⌘ Interested in **Competitive Programming, Software Development, Web Development, Machine Learning**
 
