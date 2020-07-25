@@ -22,19 +22,19 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center"> 
-<a href="https://linkedin.com/in/saket13" target="blank">
+<a href="https://linkedin.com/in/saket13" target="_blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="saket13" height="30" width="50" />
 </a>
-<a href="https://github.com/saket13" target="blank">
+<a href="https://github.com/saket13" target="_blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="saket13" height="30" width="50" />
 </a>
-<a href="https://www.facebook.com/saket.saumya/" target="blank">
+<a href="https://www.facebook.com/saket.saumya/" target="_blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="saket13" height="30" width="50" />
 </a>
-<a href="https://instagram.com/saket_saumya/" target="blank">
+<a href="https://instagram.com/saket_saumya/" target="_blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="saket13" height="30" width="50" />
 </a>
-<a href="mailto:saket.iiit@gmail.com" target="blank">
+<a href="mailto:saket.iiit@gmail.com" target="_blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="saket13" height="30" width="50" />
 </a>
 </p>
@@ -68,4 +68,26 @@ Here are some ideas to get you started:
 <br/>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=saket13&show_icons=true" alt="saket13" /> </p>
+
+**My CP Profile:**  
+<p align="center"> 
+<a href="https://www.stopstalk.com/user/profile/saket13" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/stopstalk/stopstalk-deployment/master/static/images/stopstalk-logo.png" alt="codechef" height="50" width="50" />
+</a>
+<a href="https://www.codechef.com/users/saket13" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/stopstalk/stopstalk-deployment/master/static/images/codechef_small.png" alt="codechef" height="50" width="50" />
+</a>
+<a href="https://www.hackerearth.com/@saket_13" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/stopstalk/stopstalk-deployment/master/static/images/hackerearth_logo.png" alt="hackerearth" height="50" width="50" />
+</a>
+<a href="https://www.hackerrank.com/saket13" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/stopstalk/stopstalk-deployment/master/static/images/hackerrank_logo.png" alt="hackerrank" height="50" width="50" />
+</a>
+<a href="https://www.hackerrank.com/saket13" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/stopstalk/stopstalk-deployment/master/static/images/spoj_logo.png" alt="hackerrank" height="50" width="50" />
+</a>
+<a href="https://leetcode.com/saket13/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/adi1307/Portfolio/master/coding/images/leetcode.png" alt="leetcode" height="50" width="50" />
+</a>
+</p>
 
