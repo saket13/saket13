@@ -86,7 +86,7 @@ Here are some ideas to get you started:
 <a href="https://www.hackerrank.com/saket13" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/stopstalk/stopstalk-deployment/master/static/images/spoj_logo.png" alt="hackerrank" height="50" width="50" />
 </a>
-<a href="https://leetcode.com/saket13/" target="_blank">
+<a href="https://leetcode.com/saket13/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/adi1307/Portfolio/master/coding/images/leetcode.png" alt="leetcode" height="50" width="50" />
 </a>
 </p>
