@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=saket13&show_icons=true" alt="saket13" /> </p>
 
-**My CP Profile:**  
+**My CP Profile: **  
 <p align="center"> 
 <a href="https://www.stopstalk.com/user/profile/saket13" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/stopstalk/stopstalk-deployment/master/static/images/stopstalk-logo.png" alt="codechef" height="50" width="50" />
