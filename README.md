@@ -2,81 +2,50 @@
 <!--
 **saket13/saket13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
-</p>
-<h1 align="center">Hi 👋, I'm Saket Saumya</h1>
-<h3 align="center">A Pre-Final Year Student at IIIT Gwalior</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saket13" alt="saket13" /> 
-</p>
+Hi, I'm Stefanie! &nbsp;&nbsp;<sup>👾 &#12299;I automate ALL the things. GitOps & DataOps advocate. I test my code. Occasionally, I draw.</sup>
 
-<p align="center"> 
-<a href="https://linkedin.com/in/saket13" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="saket13" height="30" width="50" />
-</a>
-<a href="https://github.com/saket13" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="saket13" height="30" width="50" />
-</a>
-<a href="https://www.facebook.com/saket.saumya/" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="saket13" height="30" width="50" />
-</a>
-<a href="https://instagram.com/saket_saumya/" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="saket13" height="30" width="50" />
-</a>
-<a href="mailto:saket.iiit@gmail.com" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="saket13" height="30" width="50" />
-</a>
-</p>
+----
 
-<p align="left">
+![languages](https://img.shields.io/static/v1?label=&message=languages:&color=555&style=flat-square)
+![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=111&logoColor=AAA&style=flat-square&link=)
+![go](https://img.shields.io/static/v1?logo=go&label=&message=golang&color=111&logoColor=AAA&style=flat-square)
+![ruby](https://img.shields.io/static/v1?logo=ruby&label=&message=ruby&color=111&logoColor=AAA&style=flat-square)
+![scala](https://img.shields.io/static/v1?logo=scala&label=&message=scala&color=111&logoColor=AAA&style=flat-square)
+&nbsp;&nbsp;&nbsp;
+![tools](https://img.shields.io/static/v1?label=&message=tools:&color=555&style=flat-square)
+![kubernetes](https://img.shields.io/static/v1?logo=kubernetes&label=&message=kubernetes&color=111&logoColor=AAA&style=flat-square)
+![docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=111&logoColor=AAA&style=flat-square)
+![spark](https://img.shields.io/static/v1?logo=apache-spark&label=&message=spark&color=111&logoColor=AAA&style=flat-square)
+![vim](https://img.shields.io/static/v1?logo=vim&label=&message=vim&color=111&logoColor=AAA&style=flat-square)
+![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=111&logoColor=AAA&style=flat-square)
+&nbsp;&nbsp;&nbsp;
+![worksat](https://img.shields.io/static/v1?label=&message=@:&color=555&style=flat-square)
+![adobe](https://img.shields.io/static/v1?logo=adobe&label=&message=adobe&color=111&logoColor=FF0000&style=flat-square)
 
-- 👨‍💻 <i>'Daḷhaṃ sikkhatha santiyā'</i> - Resolutely Train Yourself To Attain Peace
-
-- ⌘ Interested in **Competitive Programming, Software Development, Web Development, Machine Learning**
-
-- 📫 Reach me @ **saket.iiit@gmail.com**
-
-- ⚡ Fun fact **Night Owl**
-
-</p>
-
-**Languages and Tools:**  
-
-<p align="left">
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<br/>  
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>  
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png"></code>
-
-</p>
+**Senior Data & Platform Engineer** &#12299;_working in Reliability Analytics & Automation_
 <br/>
-<br/>
+**Digital Artist & Creator** &#12299;_specialised in environmental pixel art and 8bit-ish art_
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=saket13&show_icons=true" alt="saket13" /> </p>
+----
+
+<a href="https://twitter.com/moertel">
+  <img align="left" alt="Stefanie's Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.instagram.com/moer.tel/">
+  <img align="left" alt="Stefanie's Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://linkedin.com/in/stefaniegrunwald">
+  <img align="left" alt="Stefanie's LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://moertel.tumblr.com/">
+  <img align="left" alt="Stefanie's Tumblr" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tumblr.svg" />
+</a>
+<a href="https://behance.net/moertel">
+  <img align="left" alt="Stefanie's Behance" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />
+</a>
+
+| &nbsp;&nbsp;&nbsp; Website & Gallery : [https://moer.tel](https://moer.tel) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Open Source Work : <sub>&#9660; &#9660; &#9660;</sub>
 
 **My CP Profile:**  
 <p align="center"> 
