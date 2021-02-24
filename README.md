@@ -1,4 +1,4 @@
-![Header image](https://raw.githubusercontent.com/saket13/saket13/master/Hi%2C%20I%20am%20Saket.png)
+### Hi, I'm Saket! &nbsp;&nbsp;<sup> &#12299;I love to code and build cool products. Currently, learning React.</sup>
 <!-- You can create your own header images using Canva, it has a lot of templates. If you do, use the following link https://www.canva.com/join/celeriac-tread-jellyfish -->
 I'm a pre-final year student at IIIT Gwalior. Currently looking for Summer Internship opportunities. Connect with me over Linkedin-
 
@@ -24,6 +24,8 @@ I'm a pre-final year student at IIIT Gwalior. Currently looking for Summer Inter
 [![Instagram Badge](https://img.shields.io/badge/-saket_saumya-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/saket_saumya/)](https://www.instagram.com/saket_saumya/)
 [![Website Badge](https://img.shields.io/badge/-saketsaumya.info-e34f26?style=flat-square&logo=HTML5&logoColor=white&link=https://saketsaumya.info/)](https://saketsaumya.info/)
 [![Gmail Badge](https://img.shields.io/badge/-mail@saket.iiit@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mail@saket.iiit@gmail.com)](mailto:mail@saket.iiit@gmail.com)
+<!--
 ## ⚡ Domains:
 - Web Development
 - App Development (Flutter)
+-->
