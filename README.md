@@ -10,6 +10,7 @@ I'm a pre-final year student at IIIT Gwalior. Currently looking for Summer Inter
 &nbsp;&nbsp;&nbsp;
 ![tools](https://img.shields.io/static/v1?label=&message=tools/frameworks:&color=555&style=flat-square)
 ![django](https://img.shields.io/static/v1?logo=django&label=&message=django&color=111&logoColor=AAA&style=flat-square)
+![flask](https://img.shields.io/static/v1?logo=flask&label=&message=flask&color=111&logoColor=AAA&style=flat-square)
 ![flutter](https://img.shields.io/static/v1?logo=flutter&label=&message=flutter&color=111&logoColor=AAA&style=flat-square)
 ![aws](https://img.shields.io/static/v1?logo=amazon-aws&label=&message=aws&color=111&logoColor=AAA&style=flat-square)
 ![vim](https://img.shields.io/static/v1?logo=vim&label=&message=vim&color=111&logoColor=AAA&style=flat-square)
