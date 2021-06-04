@@ -1,6 +1,6 @@
 ### Hi, I'm Saket! &nbsp;&nbsp;<sup> &#12299;I love to code and build cool products. Currently, learning Microservices.</sup>
 <!-- You can create your own header images using Canva, it has a lot of templates. If you do, use the following link https://www.canva.com/join/celeriac-tread-jellyfish -->
-I'm a pre-final year student at IIIT Gwalior. Currently looking for Summer Internship opportunities. Connect with me over Linkedin-
+I'm a Final Year student at IIIT Gwalior working as SWE Intern @houzen. Connect with me over Linkedin-
 
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=555&style=flat-square)
 ![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=111&logoColor=AAA&style=flat-square&link=)
