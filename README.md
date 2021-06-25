@@ -14,7 +14,7 @@ I love to code and build cool products. Currently, learning AWS Infrastructure. 
 
 
 <p>
-  <img src="https://raw.githubusercontent.com/saket13/saket13/master/github.jpg" width="400" align="right">
+  <img src="https://raw.githubusercontent.com/saket13/saket13/master/github.jpg" width="350" align="right">
   
 - 👨🏻‍💻 I’m currently in my Pre-Final year. This Summer'21, I'm working at <a href=https://houzen.co.uk target="blank">houzen</a> as Software Engineer Intern.
 
