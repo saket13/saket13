@@ -18,7 +18,7 @@ I love to code and build cool products. Currently, learning AWS Infrastructure. 
   
 - 👨🏻‍💻 I’m currently in my Final year. This Summer'21, I'm working at <a href=https://houzen.co.uk target="blank">houzen</a> as Software Engineer Intern. See my  <a href='http://bit.ly/saket-cv' target="blank">Resume</a> here !
 
-- 💬 Ask me about my internships, the dual degree program, my projects, or anything else! If you'd like to hop on a call, feel free to drop me a mail.
+- 💬 Ask me about my internships, the dual degree program, my projects, or anything else! If you'd like to hop on a call, feel free to <a href=https://calendly.com/saket13/talk-to-saket target="blank">schedule time on my calendar</a>.
 
 - 👨🏻‍🎓 I'm graduating in the summer of 2022 and looking for full-time new-grad opportunities. Please let me know @ <a href=mailto:mail@saket.iiit@gmail.com target="blank">saket.iiit</a> if you think I will be a good fit !
 </p>
