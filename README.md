@@ -7,7 +7,7 @@
 I love to code and build cool products. Currently, learning AWS Infrastructure. Connect with me here - [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saket13/)](https://www.linkedin.com/in/saket13/)
 [![Gmail Badge](https://img.shields.io/badge/-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mail@saket.iiit@gmail.com)](mailto:mail@saket.iiit@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-e34f26?style=flat-square&logo=HTML5&logoColor=white&link=https://saketsaumya.info/)](https://saketsaumya.info/)
-
+[![Twitter Badge](https://img.shields.io/badge/-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/saket13_/)](https://www.twitter.com/saket13_/)
 
 
 
