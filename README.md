@@ -1,6 +1,6 @@
 <!-- ### Hi, I'm Saket! &nbsp;&nbsp;<sup> &#12299;I love to code and build cool products. Currently, learning AWS Infrastructure.</sup> -->
 
-<h2 align="center">Hi, I'm Saket</h2>
+<h2 align="center">Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px">, I'm <a href=https://saketsaumya.info target="blank">Saket</a> </h2>
 
 <h4 align="center">IPG (B.Tech+M.Tech) @ <a href=https://iiitm.ac.in target="blank">IIIT Gwalior</a>, Intern @ <a href=https://houzen.co.uk target="blank">houzen</a>, <a href=http://vgeekers.com/ target="blank">VGeekers</a> Contributed to <a href=http://biharbhumi.bihar.gov.in/Biharbhumi/ target="blank">Land & Revenue Dept. Bihar</a></h4>
 
