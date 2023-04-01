@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I’m currently part of the Tech Team at [HealthifyMe](https://healthifyme.com) 🚀. I was a part of Payments-Merchants Team at [Paytm](https://paytm.com). Before that, I worked for a top-100 [UK startup](https://startups.co.uk) as an Intern during summer 2021 and then I joined the team as a full time Tech Consultant. I’m currently learning how to build distributed and reliable systems. 
+I’m currently part of the Tech Team at [HealthifyMe](https://healthifyme.com) 🚀. I have been a part of Payments-Merchants Team at [Paytm](https://paytm.com) and before that, worked for a top-100 [UK startup](https://startups.co.uk) as an Intern during summer 2021 and then joined the team as a full time Tech Consultant. I’m currently learning how to build distributed and reliable systems. 
 
 Areas of interest include, but not limited to: Microservices, System design, Cloud (AWS), Clean Code, REST API design, SQL and NoSQL Databases, Queues, Kafka, Caching (Redis), Design Patterns, Python, Java, Go. 
 
