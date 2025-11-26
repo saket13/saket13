@@ -7,10 +7,3 @@
 You can find me on <a href=https://www.linkedin.com/in/saket13/ target="blank">LinkedIn</a>, reach out to me at saket.iiit@gmail.com or schedule a call on my <a href=https://calendly.com/saket13/talk-to-saket target="blank">Calendar</a>.
 
 </p>
-
-## Open Source Contribution
-I have started contributing to open-source projects.
-
-### Dropwizard DB Sharding Bundle
-- [131: TransactionHandler does not check for existing session ownership before unbinding it on transaction end](https://github.com/santanusinha/dropwizard-db-sharding-bundle/pull/135)
-</br>
